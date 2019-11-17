@@ -1,0 +1,8 @@
+ <div id="header">
+<img style="display: inline;" src="logo.jpg" alt="logo"/>
+<div id="banner">
+<div id="welcome">
+<h1>GOTHAM GENERAL HOSPITAL</h1>
+</div>
+</div>
+</div>

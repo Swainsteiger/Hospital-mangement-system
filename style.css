@@ -1,0 +1,86 @@
+body{
+    background:url(gotham4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+	margin:0;
+	padding:0;
+	font-size:13px;
+    }
+
+
+#header{
+    background-repeat: no-repeat;
+    
+}
+#header img {
+  width: 200px;
+  height: 100px;
+  margin: 30px 20px 20px 0;  
+  }
+
+.sidebar_container
+{ float: left;
+  margin: 10px 20px 0 0;
+  width: 215px;
+  padding: 0;
+  background-image: url(transparent.png);
+  margin: 0;
+  }
+
+.sidebar
+{ float: left;
+  width: 250px;
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  }
+
+.sidebar_item
+{ font: normal 100% Comic Sans MS, cursive, sans-serif;
+  width: 215px;
+  background-image: url(transparent.png);
+  }
+  
+p
+{
+    color:white;
+}
+h2
+{
+    color:white;
+}
+td
+{
+    color:white;
+}
+.slideshow {
+  width: 700px;
+  height: 350px;
+  overflow: hidden;
+  position: relative;
+  margin-top: 20px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+  padding :5px;
+  border-width: 1px;
+  background-color: white;
+
+  }
+h1
+{
+    color:white;
+}
+h3
+{
+    color:white;
+    
+}
+#content{
+ background-image: url(transparent.png);
+ margin:0;
+}
+#footer{
+background-image: url(transparent.png);
+ margin:0;
+ }
